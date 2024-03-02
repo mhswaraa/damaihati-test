@@ -1613,13 +1613,12 @@ ol {
 }
 
 .services__item {
-	margin-top: 15px;
-	text-align: center;
 	border: 2px solid #DFBB9D; /* Atur ketebalan dan warna border sesuai kebutuhan */
     border-radius: 1px; /* Tambahkan radius untuk sudut */
     padding: 20px; /* Beri ruang di sekitar konten */
     text-align: center; /* Pusatkan teks */
     margin-bottom: 20px; /* Beri jarak antar item */
+    height: 150px; /* Atur tinggi tiap kolom */
 }
 
 .services__item h4 {
